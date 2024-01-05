@@ -234,7 +234,7 @@ let all_product = [
     category: "kid",
     image: p25_img,
     new_price: 85.0,
-    old_price: 120.5,
+    old_price: 120.5, 
   },
   {
     id: 26,
