@@ -1,7 +1,7 @@
 import React, { createContext, useState } from "react";
 import all_product from '../Components/Assets/all_product'
 
-export const ShopContext = createContext(null);
+export const ShopContext = createContext(null); // Created a context of data that can be used by any component and no use tot pass the data through props
 const getDefaultCart = () =>
     {
         let cart = {};
