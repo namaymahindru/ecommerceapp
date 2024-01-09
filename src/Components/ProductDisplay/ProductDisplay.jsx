@@ -13,7 +13,6 @@ const ProductDisplay = (props) => {
           <div className="productdisplay-left">
               <div className="productdisplay-img-list">
                   <img src={product.image} alt=''/>
-                   <img src={product.image} alt=''/>
                   <img src={product.image} alt='' />
                   <img src={product.image} alt=''/>
                   <img src={product.image} alt='' />
